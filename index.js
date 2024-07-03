@@ -11,6 +11,9 @@ const generateREADME = (answers) => {
 ${answers.description}
 
 ## Requirements
+\`\`\`
+${answers.installation}
+\`\`\`
 
 ## Installation
 \`\`\`
