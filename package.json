@@ -1,6 +1,6 @@
 {
   "name": "jer-readme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "README.md Generator for the terminal",
   "main": "index.js",
