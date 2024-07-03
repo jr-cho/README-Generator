@@ -16,6 +16,7 @@ Figlet
 ## Installation
 
 ```
+npm jer-readme
 npx jer-readme
 ```
 
