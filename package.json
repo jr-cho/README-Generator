@@ -1,0 +1,21 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "README.md Generator for the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "README",
+    "Generator"
+  ],
+  "author": "Jericho",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.3.2"
+  }
+}
