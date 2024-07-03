@@ -16,7 +16,7 @@ Figlet
 ## Installation
 
 ```
-git clone https://github.com/Jericho1611/README-Generator.git
+npm install jer-readme
 ```
 
 ## Usage
