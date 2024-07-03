@@ -12,7 +12,8 @@
     "Generator"
   ],
   "author": "Jericho",
-  "license": "ISC",
+  "license": "MIT",
+  "bin": "./index.js",
   "dependencies": {
     "chalk": "^5.3.0",
     "figlet": "^1.7.0",
