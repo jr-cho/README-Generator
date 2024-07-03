@@ -10,6 +10,8 @@ const generateREADME = (answers) => {
 ## Description
 ${answers.description}
 
+## Requirements
+
 ## Installation
 \`\`\`
 ${answers.installation}
@@ -39,6 +41,11 @@ const promptUser = async () => {
       type: 'input',
       name: 'description',
       message: '📕 Project Description:',
+    },
+    {
+      type: 'input',
+      name: 'installation',
+      message: '🔒 Requirements:',
     },
     {
       type: 'input',
