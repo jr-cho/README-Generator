@@ -4,6 +4,21 @@
 ## Description
 Creates a Template for your Repros README.md
 
+## Requirements 
+
+```
+Node.js
+
+Inquirer
+Chalk
+Figlet
+```
+## Installation
+
+```
+git clone https://github.com/Jericho1611/README-Generator.git
+```
+
 ## Usage
 ```
 node .
