@@ -19,7 +19,7 @@ Figlet
 npm jer-readme
 npx jer-readme
 ```
-
+a
 ## Usage
 ```
 node .
@@ -29,4 +29,4 @@ node .
 This project is licensed under the MIT license.
 
 ## More
-You can also find more of my work at [Jericho1611](https://github.com/Jericho1611).
+You can also find more of my work at [jr-cho](https://github.com/jr-cho).
