@@ -19,7 +19,7 @@ Figlet
 npm jer-readme
 npx jer-readme
 ```
-a
+
 ## Usage
 ```
 node .
